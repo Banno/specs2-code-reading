@@ -1,0 +1,9 @@
+
+* agenda
+*** [[http://etorreborre.github.com/specs2/][etorreborre/specs2 @ GitHub]]
+*** [[http://etorreborre.github.com/specs2/guide/org.specs2.UserGuide.html][User Guide]]
+*** types of specficiations
+***** mutable
+***** immutable
+*** [[http://etorreborre.github.com/specs2/guide/org.specs2.guide.Matchers.html#Matchers%2Bguide][Matchers]]
+*** Variable Isolation
